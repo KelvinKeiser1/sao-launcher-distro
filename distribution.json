@@ -51,8 +51,7 @@
               },
               "artifact": {
                 "size": 590486,
-                "url": "https://drive.google.com/uc?id=1Dgi2o-12vWNCReGFKh_25zmEOvfUMhbE&export=download&confirm=t",
-                "MD5": "E4D3FB7B0D8E9271ACA89F7964367B1A"
+                "url": "file://${LAUNCHER_DIR}/app/mods/balm-forge-1.20.1-7.3.37-all.jar"
               }
             },
             {
@@ -64,8 +63,7 @@
               },
               "artifact": {
                 "size": 26540,
-                "url": "https://drive.google.com/uc?id=1aTbOx06jEYkCZkbk3nmxPejonDwIfaU8&export=download&confirm=t",
-                "MD5": "6CDA211453A4423157B1A7927B050CFF"
+                "url": "file://${LAUNCHER_DIR}/app/mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
               }
             },
             {
@@ -77,8 +75,7 @@
               },
               "artifact": {
                 "size": 11754317,
-                "url": "https://drive.google.com/uc?id=1jChfQLGdQVteXfCSV3yIhmIpsC1Q8o2x&export=download&confirm=t",
-                "MD5": "2A30F7B86F1DE3DD19E937E9AECFE59E"
+                "url": "file://${LAUNCHER_DIR}/app/mods/born_in_chaos_[Forge]1.20.1_1.7.3.jar"
               }
             },
             {
@@ -90,8 +87,7 @@
               },
               "artifact": {
                 "size": 3185379,
-                "url": "https://drive.google.com/uc?id=1DAtB6XTzuPYYAKO6FRBkDib9nZrrjkQT&export=download&confirm=t",
-                "MD5": "F027B4F6862B99A1E0516353FB3EF0FC"
+                "url": "file://${LAUNCHER_DIR}/app/mods/citadel-2.6.2-1.20.1.jar"
               }
             },
             {
@@ -103,8 +99,7 @@
               },
               "artifact": {
                 "size": 398066,
-                "url": "https://drive.google.com/uc?id=1XvjFa8eiM_99Whien8e61nZSfTeUWLJ3&export=download&confirm=t",
-                "MD5": "2FDCC97CBC66C4B2492B407C792E7159"
+                "url": "file://${LAUNCHER_DIR}/app/mods/curios-forge-5.14.1+1.20.1.jar"
               }
             },
             {
@@ -116,8 +111,7 @@
               },
               "artifact": {
                 "size": 7948184,
-                "url": "https://drive.google.com/uc?id=1O4R_UWwOtPezc5sqL8fxOViRJkEAzHyK&export=download&confirm=t",
-                "MD5": "04A2325D50F6F026922930F90ECDC32C"
+                "url": "file://${LAUNCHER_DIR}/app/mods/epicfight-forge-20.13.4-1.20.1.jar"
               }
             },
             {
@@ -129,8 +123,7 @@
               },
               "artifact": {
                 "size": 1038979,
-                "url": "https://drive.google.com/uc?id=1O8CdtdGHQpOGY0wKOJGBlj09OP1K_igM&export=download&confirm=t",
-                "MD5": "D1FF73DA16B6FC163D6C5ED3D9734DDE"
+                "url": "file://${LAUNCHER_DIR}/app/mods/geckolib-forge-1.20.1-4.8.2.jar"
               }
             },
             {
@@ -142,8 +135,7 @@
               },
               "artifact": {
                 "size": 21854126,
-                "url": "https://drive.google.com/uc?id=1S0Nwup_v-SqS9S64GsWABrmOgkc9d_07&export=download&confirm=t",
-                "MD5": "CADBFAB46FA1B02F9A9B09FA5CF86803"
+                "url": "file://${LAUNCHER_DIR}/app/mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
               }
             },
             {
@@ -155,8 +147,7 @@
               },
               "artifact": {
                 "size": 7160406,
-                "url": "https://drive.google.com/uc?id=16IxvL8pwltR1k8_iI0Y8kgRPbC5nWYTm&export=download&confirm=t",
-                "MD5": "BE46EBD4654A75A03ECBC5497D2DDCE9"
+                "url": "file://${LAUNCHER_DIR}/app/mods/journeymap-1.20.1-5.10.3-forge.jar"
               }
             },
             {
@@ -168,8 +159,7 @@
               },
               "artifact": {
                 "size": 35239406,
-                "url": "https://drive.google.com/uc?id=1ub2lA_PwXnRdQ1VEN7yS_wZypmwVbCHm&export=download&confirm=t",
-                "MD5": "AE03FBC5568ADBF84E49806AF92844CD"
+                "url": "file://${LAUNCHER_DIR}/app/mods/mowziesmobs-1.7.3.jar"
               }
             },
             {
@@ -181,8 +171,7 @@
               },
               "artifact": {
                 "size": 642711,
-                "url": "https://drive.google.com/uc?id=1UyvAhpWaMJk2Afc2kjwlUsLZLfHJZWof&export=download&confirm=t",
-                "MD5": "D5154CACF6859582EEBD853BD59F5537"
+                "url": "file://${LAUNCHER_DIR}/app/mods/Patchouli-1.20.1-84.1-FORGE.jar"
               }
             },
             {
@@ -194,8 +183,7 @@
               },
               "artifact": {
                 "size": 99699567,
-                "url": "https://drive.google.com/uc?id=1D6us5S1smmpFrzNbAo7RNWE0ZGUNjmzX&export=download&confirm=t",
-                "MD5": "25667F4496A897620F1B1CF0BE943D5D"
+                "url": "file://${LAUNCHER_DIR}/app/mods/SAO_Ultimate_1.20.1_COMPLETO.zip"
               }
             },
             {
@@ -207,8 +195,7 @@
               },
               "artifact": {
                 "size": 83417000,
-                "url": "https://drive.google.com/uc?id=1YIXWK7JG9fdH-a6oGbmem3URZ-0tnvRb&export=download&confirm=t",
-                "MD5": "3F0A08A1CB4C2378ED5D9A0D29216A7D"
+                "url": "file://${LAUNCHER_DIR}/app/mods/SAO_Ultimate_SERVER_MODS.zip"
               }
             },
             {
@@ -220,8 +207,7 @@
               },
               "artifact": {
                 "size": 10298153,
-                "url": "https://drive.google.com/uc?id=1IqY_07aiOWQ3FYUeWCU5RI1x0woYyXip&export=download&confirm=t",
-                "MD5": "7A27B8747306BDEE0857B50E11A9850E"
+                "url": "file://${LAUNCHER_DIR}/app/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"
               }
             },
             {
@@ -233,8 +219,7 @@
               },
               "artifact": {
                 "size": 518286,
-                "url": "https://drive.google.com/uc?id=1BbqHF68yUUus6je4UBjH2vYUSQ60zQYf&export=download&confirm=t",
-                "MD5": "C0991381D238B6E1BA9526132B8A9A7C"
+                "url": "file://${LAUNCHER_DIR}/app/mods/waystones-forge-1.20.1-14.1.17.jar"
               }
             }
           ]
