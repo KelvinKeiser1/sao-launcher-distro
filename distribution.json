@@ -1,0 +1,231 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "1234567890123456789",
+    "smallImageText": "Meu Modpack",
+    "smallImageKey": "modpack-logo"
+  },
+  "rss": "https://seusite.com/noticias.rss",
+  "servers": [
+    {
+      "id": "SAOUltimate",
+      "name": "SAO ULTIMATE VERSÃO 1.20.1",
+      "description": "Servidor oficial SAO ULTIMATE - Recrie o mundo de Aincrad em Minecraft!",
+      "icon": "https://i.imgur.com/91ten0x.png",
+      "version": "1.0.0",
+      "address": "br-asc-03.streethosting.com.br:25577",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "SAOUltimate",
+        "largeImageText": "SAO ULTIMATE",
+        "largeImageKey": "server-sao"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraft:client:1.20.1",
+          "name": "Minecraft",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 26147712,
+            "url": "https://piston-data.mojang.com/v1/objects/fd19469fed4a4b4c15b2d5133985f4ce20b5ef01/client.jar",
+            "MD5": "fd19469fed4a4b4c15b2d5133985f4ce20b5ef01"
+          },
+          "subModules": [
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.0",
+              "name": "Minecraft Forge",
+              "type": "ForgeHosted",
+              "artifact": {
+                "size": 4567890,
+                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar"
+              }
+            },
+            {
+              "id": "balm:balm:7.3.37",
+              "name": "BALM",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 590486,
+                "url": "https://drive.google.com/uc?id=1Dgi2o-12vWNCReGFKh_25zmEOvfUMhbE&export=download"
+              }
+            },
+            {
+              "id": "bcc:bettercompatibilitychecker:4.0.8",
+              "name": "Better Compatibility Checker",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 26540,
+                "url": "https://drive.google.com/uc?id=1aTbOx06jEYkCZkbk3nmxPejonDwIfaU8&export=download"
+              }
+            },
+            {
+              "id": "bic:borninchoas:1.7.3",
+              "name": "Born in Chaos",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 11754317,
+                "url": "https://drive.google.com/uc?id=1jChfQLGdQVteXfCSV3yIhmIpsC1Q8o2x&export=download"
+              }
+            },
+            {
+              "id": "citadel:citadel:2.6.2",
+              "name": "Citadel",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 3185379,
+                "url": "https://drive.google.com/uc?id=1DAtB6XTzuPYYAKO6FRBkDib9nZrrjkQT&export=download"
+              }
+            },
+            {
+              "id": "curios:curios:5.14.1",
+              "name": "Curios",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 398066,
+                "url": "https://drive.google.com/uc?id=1XvjFa8eiM_99Whien8e61nZSfTeUWLJ3&export=download"
+              }
+            },
+            {
+              "id": "epicfight:epicfight:20.13.4",
+              "name": "Epic Fight",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 7948184,
+                "url": "https://drive.google.com/uc?id=1O4R_UWwOtPezc5sqL8fxOViRJkEAzHyK&export=download"
+              }
+            },
+            {
+              "id": "geckolib:geckolib:4.8.2",
+              "name": "Gecko Lib",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 1038979,
+                "url": "https://drive.google.com/uc?id=1O8CdtdGHQpOGY0wKOJGBlj09OP1K_igM&export=download"
+              }
+            },
+            {
+              "id": "iceandfire:iceandfire:2.1.13",
+              "name": "Ice and Fire",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 21854126,
+                "url": "https://drive.google.com/uc?id=1S0Nwup_v-SqS9S64GsWABrmOgkc9d_07&export=download"
+              }
+            },
+            {
+              "id": "journeymap:journeymap:5.10.3",
+              "name": "Journey Map",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 7160406,
+                "url": "https://drive.google.com/uc?id=16IxvL8pwltR1k8_iI0Y8kgRPbC5nWYTm&export=download"
+              }
+            },
+            {
+              "id": "mowziesmobs:mowziesmobs:1.7.3",
+              "name": "Mowzie's Mobs",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 35239406,
+                "url": "https://drive.google.com/uc?id=1ub2lA_PwXnRdQ1VEN7yS_wZypmwVbCHm&export=download"
+              }
+            },
+            {
+              "id": "patchouli:patchouli:84.1",
+              "name": "Patchouli",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 642711,
+                "url": "https://drive.google.com/uc?id=1UyvAhpWaMJk2Afc2kjwlUsLZLfHJZWof&export=download"
+              }
+            },
+            {
+              "id": "sao:sao_ultimate_completo:1.0",
+              "name": "SAO Ultimate Completo",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 99699567,
+                "url": "https://drive.google.com/uc?id=1D6us5S1smmpFrzNbAo7RNWE0ZGUNjmzX&export=download"
+              }
+            },
+            {
+              "id": "sao:sao_server_mods:1.0",
+              "name": "SAO Ultimate Server Mods",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 83417000,
+                "url": "https://drive.google.com/uc?id=1YIXWK7JG9fdH-a6oGbmem3URZ-0tnvRb&export=download",
+                "MD5": ""
+              }
+            },
+            {
+              "id": "graveyard:graveyard:3.1",
+              "name": "The Graveyard",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 10298153,
+                "url": "https://drive.google.com/uc?id=1IqY_07aiOWQ3FYUeWCU5RI1x0woYyXip&export=download"
+              }
+            },
+            {
+              "id": "waystones:waystones:14.1.17",
+              "name": "Waystones",
+              "type": "ForgeMod",
+              "required": {
+                "value": true
+              },
+              "artifact": {
+                "size": 518286,
+                "url": "https://drive.google.com/uc?id=1BbqHF68yUUus6je4UBjH2vYUSQ60zQYf&export=download"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
